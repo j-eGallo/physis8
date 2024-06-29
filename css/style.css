@@ -306,7 +306,7 @@ header .header-right .hamburger div {
     display: flex;
     place-content: center;
     margin-top: 6%;
-    gap: 115px;
+    gap: 15px;
 }
 
 .sm img {
